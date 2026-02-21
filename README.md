@@ -18,9 +18,6 @@ Driven by long-term technical growth and the challenge of designing scalable and
 ![](https://nirzak-streak-stats.vercel.app/?user=Gadiel-Monteabaro&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gadiel-Monteabaro&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gadiel-Monteabaro&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Gadiel-Monteabaro&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
