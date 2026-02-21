@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
  Hi, I'm Gadiel
 
 Software Development student pursuing a degree in Software Development, focused on building a solid foundation in backend engineering and software architecture.
